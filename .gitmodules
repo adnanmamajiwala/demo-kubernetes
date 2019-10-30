@@ -1,0 +1,3 @@
+[submodule "demo-feign"]
+	path = demo-feign
+	url = https://github.com/adnanmamajiwala/demo-feign.git
